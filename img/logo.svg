@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="logo" viewBox="0 0 337.613 107">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="337.613" height="107" fill="none"/>
+    </clipPath>
+    <filter id="Path_5" x="24.828" y="22.682" width="58.138" height="22.568" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.82" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Path_4">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.361" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1">
+      <feOffset dx="17" dy="-8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#f39c47" flood-opacity="0.412" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2" x="22.807" y="52.072" width="55.87" height="39.056" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#f39c47" flood-opacity="0.431" result="color-4"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-4"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g  clip-path="url(#clip-path)">
+    <g id="logo-2" data-name="logo" transform="translate(-607.387 -415)">
+      <g id="Group_1" data-name="Group 1">
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="32" cy="32" r="32" transform="translate(634.551 432.28) rotate(9)" fill="#f39c47"/>
+        <g transform="matrix(1, 0, 0, 1, 607.39, 415)" filter="url(#Path_5)">
+          <path id="Path_5-2" data-name="Path 5" d="M19.944,2.451l35.3,2.638c4.579,0,3.316,1.941,3.316,7.762l3.425,7.075s1.758,3.1-2.821,3.1L8.006,18.7c-4.579,0-2.8,5.446-2.8-.375l3.465-2.783C8.667,9.717,15.365,2.451,19.944,2.451Z" transform="translate(19.88 22.41) rotate(-2)" fill="#fff" opacity="0.56"/>
+        </g>
+        <path id="Subtraction_2" data-name="Subtraction 2" d="M33.793,82.8h0a41.965,41.965,0,0,1-11.361-4.069A8.44,8.44,0,0,0,9.744,68.415a42.226,42.226,0,0,1-5.735-9,8.436,8.436,0,0,0,4.429-7.427A8.458,8.458,0,0,0,.052,43.555C.017,42.85,0,42.14,0,41.445a42.679,42.679,0,0,1,.5-6.484,8.44,8.44,0,0,0,5.76-15.635,42.4,42.4,0,0,1,5.465-7.064,8.357,8.357,0,0,0,5.157,1.759A8.444,8.444,0,0,0,24.9,2.949,41.971,41.971,0,0,1,34.248,0,8.46,8.46,0,0,0,42.19,5.583,8.461,8.461,0,0,0,50.134,0a41.9,41.9,0,0,1,9.352,2.95,8.445,8.445,0,0,0,8.02,11.071,8.357,8.357,0,0,0,5.156-1.759,42.423,42.423,0,0,1,5.465,7.064,8.44,8.44,0,0,0,5.76,15.635,42.614,42.614,0,0,1,.5,6.484c0,.777-.022,1.571-.066,2.359a8.44,8.44,0,0,0-4.288,16.325,42.241,42.241,0,0,1-6.814,9.909,8.44,8.44,0,0,0-13.378,9.741,41.911,41.911,0,0,1-9.248,3.02,8.44,8.44,0,0,0-16.8,0l0,0ZM42,12A29,29,0,1,0,71,41,29.034,29.034,0,0,0,42,12Z" transform="translate(635.707 416) rotate(20)" fill="#f39c47"/>
+        <g transform="matrix(1, 0, 0, 1, 607.39, 415)" filter="url(#Path_4)">
+          <path id="Path_4-2" data-name="Path 4" d="M19.937,22.774c4.308-4.523.49-11.373.49-11.373l7.259-4.7S31.4,11.713,37,10.42s6.414-7.814,6.414-7.814h9.478a8.248,8.248,0,0,0,5.874,8.206c6.275,1.961,9.2-2.605,9.2-2.605l7.758,6.233s-3.824,5.392,0,10a9.827,9.827,0,0,0,9.314,3.334l1.667,4.706L7.289,28.559l2.255-4.02S15.629,27.3,19.937,22.774Z" transform="translate(7.37 9.76)" fill="#fff" opacity="0.58"/>
+        </g>
+        <g id="spanner">
+          <g data-type="innerShadowGroup">
+            <path id="Path_1-2" data-name="Path 1" d="M23.4.856,45.009,0,32.678,9.451l.974,12.342,11.917,3.7,10-6.564L50,37.008,30.9,37.4,18.992,46.874a13.1,13.1,0,0,0-6.114-.46A12.848,12.848,0,0,0,7.6,49.458l-7.6-9a10.639,10.639,0,0,0,3.146-4.178,12.494,12.494,0,0,0,.309-5.493L18.829,19.18,22.272,5.373Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 622.701, 458.115)" fill="#fff"/>
+            <g transform="matrix(1, 0, 0, 1, 607.39, 415)" filter="url(#Path_1)">
+              <path id="Path_1-3" data-name="Path 1" d="M23.4.856,45.009,0,32.678,9.451l.974,12.342,11.917,3.7,10-6.564L50,37.008,30.9,37.4,18.992,46.874a13.1,13.1,0,0,0-6.114-.46A12.848,12.848,0,0,0,7.6,49.458l-7.6-9a10.639,10.639,0,0,0,3.146-4.178,12.494,12.494,0,0,0,.309-5.493L18.829,19.18,22.272,5.373Z" transform="matrix(0.98, -0.17, 0.17, 0.98, 15.31, 43.11)" fill="#fff"/>
+            </g>
+          </g>
+          <g data-type="innerShadowGroup">
+            <path id="Path_2-2" data-name="Path 2" d="M0,26.383,21.394,7.465,41.417,11,51.335,0,45.721,18.106l-19.1.388-12.2,9.865a8.338,8.338,0,0,0-5.294-.933C6.377,27.987,3.4,30.606,3.4,30.606Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 630.195, 475.986)" fill="#fff"/>
+            <g transform="matrix(1, 0, 0, 1, 607.39, 415)" filter="url(#Path_2)">
+              <path id="Path_2-3" data-name="Path 2" d="M0,26.383,21.394,7.465,41.417,11,51.335,0,45.721,18.106l-19.1.388-12.2,9.865a8.338,8.338,0,0,0-5.294-.933C6.377,27.987,3.4,30.606,3.4,30.606Z" transform="matrix(0.98, -0.17, 0.17, 0.98, 22.81, 60.99)" fill="#fff"/>
+            </g>
+          </g>
+          <path id="Path_3" data-name="Path 3" d="M.669,5.671l24.4,15.36,20.208-5.48,10.87,15.12L49.4,10.389l-19.92,1.386L14.364.2A11.062,11.062,0,0,1,9.056,2.032,10.109,10.109,0,0,1,3.961.523Z" transform="translate(628.827 501.605) rotate(-82)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Fixier" transform="translate(730 503)" fill="#fff" font-size="82" font-family="Segoe UI Variable Small" font-weight="600"><tspan x="0" y="0">Fixier</tspan></text>
+    </g>
+  </g>
+</svg>
